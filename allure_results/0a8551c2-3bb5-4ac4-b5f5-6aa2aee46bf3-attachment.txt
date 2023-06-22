@@ -1,0 +1,5 @@
+[32mINFO    [0m Logger:page.py:79 Page.wait_until_stable() - Page wait until driver stable
+[32mINFO    [0m Logger:page.py:165 Page.maximize_window() - Maximize browser window
+[32mINFO    [0m Logger:page.py:65 Page.visit() - Visit URL: `https://www.w3schools.comUIRoutes.SQL_TRYSQL?filename=trysql_select_all`
+[32mINFO    [0m Logger:page.py:158 Page.screenshot() - Save screenshot to: `screenshots/test_select_all_customers[Via Ludovico il Moro 22-Via Ludovico il Moro 22].png`
+[32mINFO    [0m Logger:page.py:150 Page.quit() - Quit page and close all windows from the browser session
